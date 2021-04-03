@@ -1,5 +1,5 @@
 # Root-mean-square-deviation
-RMSD(the measure of the average distance between the atoms) using discret mathematics concepts
+RMSD(Root-mean-square deviation of atomic positions) using discret mathematics concepts
 
 for more information please visit : 
 http://maths.cnam.fr/IMG/pdf/RungeKuttaFehlbergProof.pdf
